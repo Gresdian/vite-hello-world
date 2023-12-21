@@ -77,3 +77,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.content{
+  background-color: lightgreen;
+  width:1200px;
+  height:400px;
+}
